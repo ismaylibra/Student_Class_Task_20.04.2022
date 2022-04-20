@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C# tasks\HomeWork 1task1 20.04.2022\HomeWork 1task1 20.04.2022\bin\Debug\netcoreapp3.1\HomeWork 1task1 20.04.2022.exe
+C:\Users\ASUS\Desktop\C# tasks\HomeWork 1task1 20.04.2022\HomeWork 1task1 20.04.2022\bin\Debug\netcoreapp3.1\HomeWork 1task1 20.04.2022.deps.json
+C:\Users\ASUS\Desktop\C# tasks\HomeWork 1task1 20.04.2022\HomeWork 1task1 20.04.2022\bin\Debug\netcoreapp3.1\HomeWork 1task1 20.04.2022.runtimeconfig.json
+C:\Users\ASUS\Desktop\C# tasks\HomeWork 1task1 20.04.2022\HomeWork 1task1 20.04.2022\bin\Debug\netcoreapp3.1\HomeWork 1task1 20.04.2022.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C# tasks\HomeWork 1task1 20.04.2022\HomeWork 1task1 20.04.2022\bin\Debug\netcoreapp3.1\HomeWork 1task1 20.04.2022.dll
+C:\Users\ASUS\Desktop\C# tasks\HomeWork 1task1 20.04.2022\HomeWork 1task1 20.04.2022\bin\Debug\netcoreapp3.1\HomeWork 1task1 20.04.2022.pdb
+C:\Users\ASUS\Desktop\C# tasks\HomeWork 1task1 20.04.2022\HomeWork 1task1 20.04.2022\obj\Debug\netcoreapp3.1\HomeWork 1task1 20.04.2022.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C# tasks\HomeWork 1task1 20.04.2022\HomeWork 1task1 20.04.2022\obj\Debug\netcoreapp3.1\HomeWork 1task1 20.04.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C# tasks\HomeWork 1task1 20.04.2022\HomeWork 1task1 20.04.2022\obj\Debug\netcoreapp3.1\HomeWork 1task1 20.04.2022.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C# tasks\HomeWork 1task1 20.04.2022\HomeWork 1task1 20.04.2022\obj\Debug\netcoreapp3.1\HomeWork 1task1 20.04.2022.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C# tasks\HomeWork 1task1 20.04.2022\HomeWork 1task1 20.04.2022\obj\Debug\netcoreapp3.1\HomeWork 1task1 20.04.2022.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# tasks\HomeWork 1task1 20.04.2022\HomeWork 1task1 20.04.2022\obj\Debug\netcoreapp3.1\HomeWork 1task1 20.04.2022.dll
+C:\Users\ASUS\Desktop\C# tasks\HomeWork 1task1 20.04.2022\HomeWork 1task1 20.04.2022\obj\Debug\netcoreapp3.1\HomeWork 1task1 20.04.2022.pdb
+C:\Users\ASUS\Desktop\C# tasks\HomeWork 1task1 20.04.2022\HomeWork 1task1 20.04.2022\obj\Debug\netcoreapp3.1\HomeWork 1task1 20.04.2022.genruntimeconfig.cache
