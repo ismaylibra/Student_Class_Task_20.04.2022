@@ -6,7 +6,7 @@ namespace HomeWork_1task1_20._04._2022
     {
         static void Main(string[] args)
         {
-            Student student = new Student("Ismayil" ,"Ibrahimli", 20, "Male", true, 58 );
+            Student student = new Student("Ismayil" ,"Ibrahimli", 20, "Male", false, 85 );
             Console.WriteLine(student.GetInfo());
         }
 
@@ -20,7 +20,7 @@ namespace HomeWork_1task1_20._04._2022
         public bool isGraduated;
         public byte Point;
         public Student(string name, string surname, byte age, string gender, bool graduated, byte point)
-        {
+        { 
             Name = name;
             Surname = surname;
             Age = age;
@@ -29,15 +29,17 @@ namespace HomeWork_1task1_20._04._2022
             isGraduated = graduated;
             if( graduated = true)
             {
-                Console.WriteLine("Congratulations! You're graduated :)");
+                Console.WriteLine("You're graduated");
             }
+            else { Console.WriteLine("You're student"); }
+
             if (point >= 80)
             {
-                Console.WriteLine("You have chance for a second exam");
+                Console.WriteLine("You have chance for a second exam ");
             }
             else
             {
-                Console.WriteLine("You failed the exam");
+                Console.WriteLine("You missed your second chance ");
             }
         }
         public string GetInfo()
